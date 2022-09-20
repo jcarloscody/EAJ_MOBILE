@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">A Calculadora de Taniro</string>
+    <string name="resultado">Resultado</string>
+    <string name="soma">Soma</string>
+    <string name="calcular">Calcular</string>
+    <string name="set_variavel_y">Set variável Y</string>
+    <string name="set_variavel_x">Set variável X</string>
+    <string name="y">Y</string>
+    <string name="x">X</string>
+    <string name="variavel_y">Variável Y </string>
+    <string name="variavel_x">Variável X </string>
+    <string name="realizando_calculos" />
+    <string name="textview">TextView</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
